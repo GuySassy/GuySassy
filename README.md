@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am an AI and machine learning researcher with a 
 Here are a few projects that highlight my skills and interests:
 
 ### 1. **[GPTbyPBB](https://github.com/GuySassy/GPTbyPBB)**
-   - **Description**: Implemented a PAC-Bayes bound optimization approach, enhancing a GPT model through Block Diagonal parameterization.
+   - **Description**: MSc research project. Implemented a PAC-Bayes bound optimization approach, enhancing a GPT model through Block Diagonal parameterization.
    - **Technologies**: PyTorch, PAC-Bayes theory, Block Diagonal modeling
    - **Highlights**: Improved performance by incorporating PAC-Bayes bounds with unique parameterization strategies.
 
