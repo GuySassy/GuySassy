@@ -45,7 +45,3 @@ I’m always open to new opportunities, collaborations, and discussions. Feel fr
 
 - [LinkedIn](https://linkedin.com/in/yourprofile) 
 - [Email](mailto:your.email@example.com)
-
----
-
-Feel free to adapt this structure to make it feel personal and authentic to your voice and expertise!
