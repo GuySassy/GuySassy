@@ -43,5 +43,5 @@ I'm currently exploring:
 ## 🤝 Let's Connect!
 I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out to me here on GitHub or via:
 
-- [LinkedIn](https://linkedin.com/in/yourprofile) 
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](www.linkedin.com/in/guy-sassy-ai) 
+- [Email](mailto:guysassy11@gmail.com)
