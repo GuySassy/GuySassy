@@ -30,9 +30,9 @@ Here are a few projects that highlight my skills and interests:
 
 ## 📊 Current Focus
 I'm currently exploring:
-- Transformer architectures on high-dimensional sequential data
-- Advanced tokenization techniques for sequence models
-- Practical applications of PAC-Bayes theory in real-world AI systems
+- Transformer architectures on high-dimensional sequential data.
+- Developing complex state of the art algorithms for trading.
+- Practical applications of PAC-Bayes theory in real-world AI systems.
 
 ---
 
