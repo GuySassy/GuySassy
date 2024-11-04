@@ -20,14 +20,14 @@ Here are a few projects that highlight my skills and interests:
    - **Technologies**: PyTorch, PAC-Bayes theory, Block Diagonal modeling
    - **Highlights**: Improved performance by incorporating PAC-Bayes bounds with unique parameterization strategies.
 
-### 2. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/Multi-Agent-Q-Learning)**
+### 2. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/TheMind)**
    - **Description**: Designed a multi-agent environment for cooperative learning in Gym, with agents using Q-learning to optimize task ordering.
    - **Technologies**: Python, Gym, Reinforcement Learning, Neural Networks
    - **Highlights**: Integrated a complex reward system to drive agents toward cooperative behavior.
 
-### 3. **[Power Grid Forecasting](https://github.com/GuySassy/Power-Grid-Forecasting)**
-   - **Description**: Developed a predictive model for power grid usage using multi-modal data to inform energy usage predictions.
-   - **Technologies**: Machine Learning, Data Fusion, PyTorch
+### 3. **[Stocks Algorithmic Trading](https://github.com/GuySassy/AlgoTrade)**
+   - **Description**: Developed a predictive model for stocks prices.
+   - **Technologies**: Machine Learning, Data Fusion, PyTorch, Transformers, VAE
    - **Highlights**: Improved predictive accuracy by integrating temporal and environmental data.
 
 ---
