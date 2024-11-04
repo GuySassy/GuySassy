@@ -13,7 +13,7 @@ Here are a few projects that highlight my skills and interests:
 
 ### 1. **[GPTbyPBB](https://github.com/GuySassy/GPTbyPBB)**
    - **Description**: MSc research project. Implemented a PAC-Bayes bound optimization approach, enhancing a GPT model through Block Diagonal parameterization. Experiments made both for training from scratch (nanoGPTbyPBB) and LLM finetune (LoRAbyPBB).
-   - **Technologies**: PyTorch, PAC-Bayes theory, Block Diagonal modeling
+   - **Technologies**: PAC-Bayes theory, Transformers, LoRA.
    - **Highlights**: Improved performance by incorporating PAC-Bayes bounds with unique parameterization strategies. Developed a Self-Certified and certainty aware GPT.
 
 ### 2. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/TheMind)**
