@@ -1,7 +1,3 @@
-Here’s a template for a GitHub profile README that you can customize to showcase your skills and experience:
-
----
-
 # Hi there! 👋 I'm Guy Sassy
 
 Welcome to my GitHub profile! I am an AI and machine learning researcher with a background in Electrical and Computer Engineering, specializing in algorithm development and deep learning. My experience includes designing and implementing advanced AI models, from transformer architectures to multi-agent systems, with a focus on statistical rigor and performance optimization.
