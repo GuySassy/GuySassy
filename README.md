@@ -11,17 +11,17 @@ Welcome to my GitHub profile! I am an AI and machine learning researcher with an
 ## 🔬 Key Projects
 Here are a few projects that highlight my skills and interests:
 
-### 1. **[GPTbyPBB](https://github.com/GuySassy/GPTbyPBB)**
+### 1. **[GPTbyPBB](https://github.com/GuySassy/GPTbyPBB)** (Finished)
    - **Description**: MSc research project. Implemented a PAC-Bayes bound optimization approach, enhancing a GPT model through Block Diagonal parameterization. Experiments made both for training from scratch (nanoGPTbyPBB) and LLM finetune (LoRAbyPBB).
-   - **Technologies**: PAC-Bayes theory, Transformers, LoRA.
+   - **Technologies**: PAC-Bayes theory, Transformers, LLM peft with LoRA.
    - **Highlights**: Improved performance by incorporating PAC-Bayes bounds with unique parameterization strategies. Developed a Self-Certified and certainty aware GPT.
 
-### 2. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/TheMind)**
+### 2. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/TheMind)** (In progress)
    - **Description**: Designed a multi-agent environment for cooperative learning in Gym, with agents using Q-learning to optimize task ordering.
    - **Technologies**: Python, Gym, Reinforcement Learning, Neural Networks
    - **Highlights**: Integrated a complex reward system to drive agents toward cooperative behavior.
 
-### 3. **[Stocks Algorithmic Trading](https://github.com/GuySassy/AlgoTrade)**
+### 3. **[Stocks Algorithmic Trading](https://github.com/GuySassy/AlgoTrade)** (In progress)
    - **Description**: Developed a predictive model for stocks prices.
    - **Technologies**: Machine Learning, Data Fusion, PyTorch, Transformers, VAE
    - **Highlights**: Improved predictive accuracy by integrating temporal and environmental data.
