@@ -16,15 +16,15 @@ Here are a few projects that highlight my skills and interests:
    - **Technologies**: PAC-Bayes theory, Transformers, LLM peft with LoRA.
    - **Highlights**: Improved performance by incorporating PAC-Bayes bounds with unique parameterization strategies. Developed a Self-Certified and certainty aware GPT.
 
-### 2. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/TheMind)** (In progress)
-   - **Description**: Designed a multi-agent environment for cooperative learning in Gym, with agents using Q-learning to optimize task ordering.
-   - **Technologies**: Python, Gym, Reinforcement Learning, Neural Networks
-   - **Highlights**: Integrated a complex reward system to drive agents toward cooperative behavior.
-
-### 3. **[Stocks Algorithmic Trading](https://github.com/GuySassy/AlgoTrade)** (In progress)
+### 2. **[Stocks Algorithmic Trading](https://github.com/GuySassy/AlgoTrade)** (In progress)
    - **Description**: Developed a predictive model for stocks prices.
    - **Technologies**: Machine Learning, Data Fusion, PyTorch, Transformers, VAE
    - **Highlights**: Improved predictive accuracy by integrating temporal and environmental data.
+
+### 3. **[Multi-Agent Q-Learning Environment](https://github.com/GuySassy/TheMind)** (In progress)
+   - **Description**: Designed a multi-agent environment for cooperative learning in Gym, with agents using Q-learning to optimize task ordering.
+   - **Technologies**: Python, Gym, Reinforcement Learning, Neural Networks
+   - **Highlights**: Integrated a complex reward system to drive agents toward cooperative behavior.
 
 ---
 
