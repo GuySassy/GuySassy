@@ -3,9 +3,7 @@
 Welcome to my GitHub profile! I am an AI and machine learning researcher with an MSc in Electrical and Computer Engineering, specializing in algorithm development and deep learning. My experience includes designing and implementing advanced AI models, from transformer architectures to multi-agent systems, with a focus on statistical rigor and performance optimization.
 
 - 🎓 MSc in Electrical and Computer Engineering (Technion)
-- 🛠️ Focused on **AI Research**, **PAC-Bayes Theory**, and **Transformer Models**
-- 🧩 Areas of Interest: **Statistical Learning**, **Multi-Modal Data Fusion**, **Reinforcement Learning**
-
+- 🛠️ Focused on deep learning and theoretical learning (PAC-Bayes theory)
 ---
 
 ## 🔬 Key Projects
