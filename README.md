@@ -7,7 +7,7 @@ Building simulation-to-hardware pipelines for real-world AI systems.
 - Systems: Docker, Linux, GPU-based inference, performance profiling  
 - Perception: event-based vision pipelines, SLAM-oriented workflows  
 
-📍 Remote (Israel) · 📧 guysassy11@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/guy-sassy-AI/)  
+ Remote (Israel) ·  guysassy11@gmail.com ·  [LinkedIn](https://www.linkedin.com/in/guy-sassy-AI/)  
 
 ---
 
@@ -18,11 +18,11 @@ from data and simulation, through training, to deployment and debugging on real 
 ---
 
 ## Top 3 Featured projects
-> Pin your best repos on GitHub and link them here.
 
 ### Robotics & RL
 - **Lite3** — Quadruped robot training -> deployment pipeline
   `Key tech:` PPO/SAC, IsaacGym, curriculum learning, sim-to-real
+[Lite3](https://github.com/HaifaUnivSAIL/Lite3.git)
 
 ### Event-based vision & perception (private - can share code on demand)
 - **Stealth** — Full code stack for perception module (SLAM) based on neuromorphic hardware. 
