@@ -17,9 +17,9 @@ from data and simulation, through training, to deployment and debugging on real 
 
 ---
 
-## Top 3 Featured projects
+## Featured projects
 
-### Robotics & RL
+### Quadruped Reinforcement Learning
 - **Lite3** — Quadruped robot training -> deployment pipeline
   `Key tech:` PPO/SAC, IsaacGym, curriculum learning, sim-to-real
 [Lite3](https://github.com/HaifaUnivSAIL/Lite3.git)
@@ -28,9 +28,15 @@ from data and simulation, through training, to deployment and debugging on real 
 - **Stealth** — Full code stack for perception module (SLAM) based on neuromorphic hardware. 
   `Key tech:` event cameras, real-time processing, SLAM pipeline integration
 
+### Event camera full software stack (research)
+- **AgileAutonomy** — Neuromorphic decision making SITL stack using SNNs (research)
+  `Key tech:` event cameras, RL, SNNs, SITL, ROS
+  [AgileAutonomy](https://github.com/HaifaUnivSAIL/AgileAutonomy.git)
+
 ### MSc research thesis
 - **GPTbyPBB** — Complete training stack for LLMs (scratch & FT) with own written modules and objective functions (PAC-Bayes driven).
   `Key tech:` GPT, LLMs, LoRA, Bayesian LT parameterizations, training stability
+  [GPTbyPBB](https://github.com/GuySassy/GPTbyPBB.git)
   
 ---
 ## Highlights
